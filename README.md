@@ -30,7 +30,7 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
 3.	Run the game:
     - if you are using Windows:
     ```bash
-   python main.py
-   ```
+    python main.py
+    ```
     - if you are using MacOS or Linux:
     python3 main.py
