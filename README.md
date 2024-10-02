@@ -16,6 +16,13 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
    ```bash
     https://github.com/ngoquangtruong-personal/Ping_Pong.git
 2.	Install the required libraries:
+   ```bash
     pip install -r requirements.txt
 3.	Run the game:
+    if you are using Windows:
+   ```bash
     python main.py
+
+    if you are using Windows:
+   ```bash
+    python3 main.py
