@@ -15,9 +15,11 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
 1. Clone this repository to your local machine:
    ```bash
     https://github.com/ngoquangtruong-personal/Ping_Pong.git
+   ```bash
 2.	Install the required libraries:
    ```bash
     pip install -r requirements.txt
+   ```bash
 3.	Run the game:
     if you are using Windows:
    ```bash
